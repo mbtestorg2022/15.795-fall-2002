@@ -4,17 +4,204 @@ title: Calendar
 uid: 55aadd19-2cea-2471-96e8-8c8aade34fa7
 ---
 
-| LEC # | TOPICS | SPEAKER | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Introduction | Charles Fine | Student email top 3-5 tech sectors of interest & mini-bio |
-| 2 | TeleCom'n Roadmap | Charles Fine | &nbsp; |
-| 3 | Student Presentations | &nbsp; | Students present MiniMaps |
-| 4 | Neuro/Medical Imaging | Bruce Rosen, Sorensen | &nbsp; |
-| 5 | Sloan 50th Panel | Bob Brown, Rod Brooks, Lundquist, et al | &nbsp; |
-| 6 | CO2 Sequestration / Environmental | Jacoby, Herzog, McFarland | &nbsp; |
-| 7 | MEMS Devices & Economics of Manufacturing | Marty Schmidt | &nbsp; |
-| 8 | Student Presentations | &nbsp; |
-| 9 | Conference | TBD | Participating in Telecom TRM Conference |
-| 10 | Aerospace | Bozdogan | &nbsp; |
-| 11 | Biological Engineering | Doug Lauffenberger | &nbsp; |
-| 12 | Student Presentations | &nbsp; | Complete TRM Finale!
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SPEAKER
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Charles Fine
+{{< tdclose >}}
+{{< tdopen >}}
+Student email top 3-5 tech sectors of interest & mini-bio
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+TeleCom'n Roadmap
+{{< tdclose >}}
+{{< tdopen >}}
+Charles Fine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Students present MiniMaps
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Neuro/Medical Imaging
+{{< tdclose >}}
+{{< tdopen >}}
+Bruce Rosen, Sorensen
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Sloan 50th Panel
+{{< tdclose >}}
+{{< tdopen >}}
+Bob Brown, Rod Brooks, Lundquist, et al
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+CO2 Sequestration / Environmental
+{{< tdclose >}}
+{{< tdopen >}}
+Jacoby, Herzog, McFarland
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+MEMS Devices & Economics of Manufacturing
+{{< tdclose >}}
+{{< tdopen >}}
+Marty Schmidt
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Conference
+{{< tdclose >}}
+{{< tdopen >}}
+TBD
+{{< tdclose >}}
+{{< tdopen >}}
+Participating in Telecom TRM Conference
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Aerospace
+{{< tdclose >}}
+{{< tdopen >}}
+Bozdogan
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Biological Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Doug Lauffenberger
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Complete TRM Finale!
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
